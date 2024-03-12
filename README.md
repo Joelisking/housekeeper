@@ -1,3 +1,6 @@
+
+<img width="1680" alt="Screenshot 2024-02-02 at 1 37 00 AM" src="https://github.com/Joelisking/housekeeper/assets/93987931/76455e52-ebd4-4998-a2bb-c18d0d7b3658">
+
 # Housekeeper Hotel Management System
 
 Welcome to the Housekeeper Hotel Management System! This system is designed to streamline hotel management operations including room bookings, guest management, housekeeping assignments, and more. It's built using HTML, CSS, Bootstrap, and PHP.
